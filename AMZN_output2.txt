@@ -1,0 +1,19 @@
+Stocks are analyzed from 2019-04-02 to 2020-04-02
+Most recent close price: 1921.23
+longest increasing streak: 2019-06-28 to 2019-07-10
+price in stream rose from: 1893.630005 to 2017.410034
+longest decreasing streak: 2019-07-24 to 2019-08-05
+price in stream lowered from: 2000.810059 to 1765.130005
+the average closed price: 1855.84
+highest price: 2170.22 on 2020-02-19
+lowest price: 1676.61 on 2020-03-12
+Max Volume / most amount of trades: 15567300 on 2020-01-31
+quartile 1: 1782.82
+quartile 2: 1843.55
+quartile 3: 1905.57
+standard deviation: 97.3787
+% change since Dec 31st: 3.97166
+% change since beginning: 5.91241
+days when stocks increase from previous day: 123
+days when stocks decrease from previous day: 131
+days when stocks have no change from previous day: 0
